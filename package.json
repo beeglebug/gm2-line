@@ -1,0 +1,19 @@
+{
+  "name": "gm2-line",
+  "version": "0.0.1",
+  "description": "2d geometry - line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeglebug/gm2-line.git"
+  },
+  "author": "Stuart Lee <updownleftright@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beeglebug/gm2-line/issues"
+  },
+  "homepage": "https://github.com/beeglebug/gm2-line#readme"
+}
